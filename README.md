@@ -30,7 +30,7 @@ p, [for="abtype"] {
 }
 fieldset, #abtype {
 	margin-bottom: 2rem;
-}
+} 
 fieldset {
 	border: 1px solid black;
 	border-radius: 10px;
