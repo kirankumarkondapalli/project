@@ -125,7 +125,5 @@ button:hover {
           <h1>Our Location</h1>
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.1091937159376!2d72.89627031421314!3d19.10286505609325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9d98d504637%3A0x103babc83c2630b0!2sKiran%20Gym!5e0!3m2!1sen!2sin!4v1602441582199!5m2!1sen!2sin" width="300" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>"
 		 <p>Subhash Nagar, Mohili, Asalpha, Mumbai, Maharashtra 400072</p>
-	</div>
 	<script src="js/forms.js"></script>   
-</body>
-</html>
+ 
