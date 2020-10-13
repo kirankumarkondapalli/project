@@ -12,8 +12,7 @@ body {
 .wrapper {
 	width: 80%;
 	margin: 0 auto;
-	padding: 1em;
-	 
+	padding: 1em; 
 	display: flex;
 	flex-flow: row nowrap;
 }
@@ -45,7 +44,6 @@ legend {
 label {
 	display: block;
 }
- 
 input:not([type="radio"]):not([type="checkbox"]), 
 textarea {
 	display: block;
@@ -75,12 +73,9 @@ button {
 button:hover {
 	background-color: #9A2B27;
 }
-
-
         </style>
       </head>
-    <body>
-      
+    <body>  
 	<div class="wrapper">
 		<section>
       <h1>Kiran Fitness Gym</h1>
@@ -93,16 +88,11 @@ button:hover {
 					<label for="phone">Phone number</label>
 					<input type="tel" id="phone" name="phone"  >
 					<label for="email">Email</label>
-					<input type="email" id="email" name="email">
-
-				 
-				 
-					 
+					<input type="email" id="email" name="email">					 
           <label for="date">Joining date</label>
 					<input type="date" id="date" name="date">
           <label for="qty">How many Months will you choose ?<label>
 					<input type="number" id="qty" name="qty" min="1" max="12">
-
             <p>What type of training do you prefer?</p>
 					<label>
 						<input type="radio" name="ufotype" value="kk" checked>Body Intensity Training
@@ -119,7 +109,6 @@ button:hover {
 					<label>
 						<input type="radio" name="ufotype" value="any">Circuit Training               
 					</label>
-
 					<label for="kiran">Type of Plans  </label>
 					<select id="kiran" name="kiran">
             <option selected>Select one...</option>
@@ -128,24 +117,18 @@ button:hover {
             <option value="dance">6 Months $225 (save $75)</option>
             <option value="whales">12 Months $500 (save $100)</option>
 					</select>
-
-					<label for="comments">Special requests:</label>
-					<textarea id="comments" name="comments"></textarea>
-
-					 
-					<input id="send_to" type="hidden" name="send_to" value="yourEmailHere">
+			<label for="comments">Special requests:</label>
+					<textarea id="comments" name="comments"></textarea>		 
+			<input id="send_to" type="hidden" name="send_to" value="yourEmailHere">
 					<button type="submit">Submit</button>
 				</fieldset>
 			</form>
-
 		</section>
         <aside>
           <h1>Our Location</h1>
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.1091937159376!2d72.89627031421314!3d19.10286505609325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9d98d504637%3A0x103babc83c2630b0!2sKiran%20Gym!5e0!3m2!1sen!2sin!4v1602441582199!5m2!1sen!2sin" width="300" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>"
 		 <p>Subhash Nagar, Mohili, Asalpha, Mumbai, Maharashtra 400072</p>
 	</div>
-	<script src="js/forms.js"></script>
-         
+	<script src="js/forms.js"></script>   
 </body>
-
 </html>
