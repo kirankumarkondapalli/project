@@ -80,7 +80,7 @@ button:hover {
 		<section>
       <h1>Metro Fitness Gym</h1>
       <p>Fill out the form below to place an Registration</p>
-			<form method="POST" action="https://e3vwdl4bpd.execute-api.us-west-2.amazonaws.com/default/API2SES">
+			<form >
 				<fieldset>
 					<legend>Your contact information</legend>
 					<label for="name">Your name </label>
