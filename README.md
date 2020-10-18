@@ -108,7 +108,7 @@ button:hover {
 					</label>
 					<label>
 						<input type="radio" name="ufotype" value="any">Circuit Training               
-					</label>
+					</label><br/>
 					<label for="kiran">Type of Plans  </label>
 					<select id="kiran" name="kiran">
             <option selected>Select one...</option>
